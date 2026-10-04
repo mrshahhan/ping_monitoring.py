@@ -36,7 +36,6 @@ python ping_monitor.py
 Ping: 24 ms
 Ping: 21 ms
 Ping: 26 ms
-Packet loss!
 Ping: 23 ms
 ```
 
